@@ -2,7 +2,7 @@ import "./Head.css"
 
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
-import UserIcon from '@material-ui/icons/AccountCircleRounded'
+import UserIcon from '@material-ui/icons/AddAlertRounded'
 import PlusIcon from '@material-ui/icons/AddAlertRounded'
 import OrderIcon from '@material-ui/icons/CallToActionRounded'
 import HeartIcon from '@material-ui/icons/FavoriteBorderRounded'
